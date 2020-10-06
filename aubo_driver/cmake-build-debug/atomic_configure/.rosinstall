@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/itcast/ws/urdf_ws/src/aubo_robot/aubo_driver/cmake-build-debug/devel/setup.sh
